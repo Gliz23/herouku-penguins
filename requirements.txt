@@ -1,0 +1,4 @@
+streamlit==1.41.1
+pandas==2.2.3
+numpy==1.19
+scikit-learn==2.0.2
